@@ -1,16 +1,52 @@
-### Hi there 👋
+# ALMAZ ZHUNUSOV 👨‍💻
 
-<!--
-**k1xd-fr/k1xd-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Contact:**
+- Phone 📞: +996 (550) 599099
+- Email ✉️: k1xd@mail.ru
+- Telegram 💬: @k1xdD
+- Location 📍: Bishkek, Kyrgyzstan
 
-Here are some ideas to get you started:
+**Profile:**
+- Male, 19 years old (born on August 12, 2004)
+- Citizenship 🌐: Kyrgyzstan
+- Willing to relocate 🌍: Yes
+- Willing to travel ✈️: Yes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Desired Position:**
+- *Frontend Developer* 💻
+- *Specializations: Programmer, Developer* 🚀
+
+**Education:**
+- **Secondary Specialized**
+  - *2023*
+  - *Professional Lyceum No. 98*
+  - *Specialization: Frontend Developer* 🎓
+
+**Key Skills:**
+- **Languages:**
+  - Kyrgyz - Native 🌍
+  - English - A2 - Elementary 🌐
+  - Russian - C1 - Advanced 🇷🇺
+- **Technical Skills:**
+  - Html, Css, BootStrap, Tailwind, Pug, Sass, BEM, Ui/Ux, Git 🧑‍💻
+  - JS, ReactJS, TypeScript, NextJS, Jquery, Redux toolkit, Strapi 🚀
+  - Vue3 (gained experience at Discovery Studio) 🚀
+  - NodeJs, PSQL, Express, GoLang (6 months of experience at iwex) 🚀
+
+**Professional Experience:**
+- *Started programming in 2022* 🚀
+- *Training and Practice:*
+  - *Mastered a wide range of technologies in 8 months* 🌐
+  - *Gained hands-on experience in various projects, including iwex and Discovery Studio* 🚀
+  - *Progressed from basic knowledge to expertise in NodeJs, PSQL, Express, GoLang within 6 months of work* 📈
+
+**Personal Qualities:**
+- *Organized* 🗂️
+- *Responsible* 🤝
+- *Team collaboration skills* 🤖
+- *Communication skills* 🗣️
+
+**Contact:**
+- *Email:* k1xd@mail.ru ✉️
+- *Telegram:* @k1xdD 💬
+- *Preferred method of contact:* Email ✉️
