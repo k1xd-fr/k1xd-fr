@@ -49,6 +49,6 @@
 ### Contact:
 - *Email:* [k1xd@mail.ru](mailto:k1xd@mail.ru) ✉️
 - *Telegram:* [@k1xdD](https://t.me/k1xdD) 💬
-- *Preferred contact method:* Email ✉️
+- *Preferred contact method:* Telegram 💬
   
 ---
