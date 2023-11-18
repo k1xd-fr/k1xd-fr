@@ -2,8 +2,8 @@
 
 **Contact:**
 - Phone 📞: +996 (550) 599099
-- Email ✉️: k1xd@mail.ru
-- Telegram 💬: @k1xdD
+- Email ✉️: [k1xd@mail.ru](mailto:k1xd@mail.ru)
+- Telegram 💬: [@k1xdD](https://t.me/k1xdD)
 - Location 📍: Bishkek, Kyrgyzstan
 
 **Profile:**
@@ -46,7 +46,9 @@
 - *Team collaboration skills* 🤖
 - *Communication skills* 🗣️
 
-**Contact:**
-- *Email:* k1xd@mail.ru ✉️
-- *Telegram:* @k1xdD 💬
-- *Preferred method of contact:* Email ✉️
+### Contact:
+- *Email:* [k1xd@mail.ru](mailto:k1xd@mail.ru) ✉️
+- *Telegram:* [@k1xdD](https://t.me/k1xdD) 💬
+- *Preferred contact method:* Email ✉️
+  
+---
