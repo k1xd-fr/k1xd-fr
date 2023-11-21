@@ -18,7 +18,6 @@
 
 **Education:**
 - **Secondary Specialized**
-  - *2023*
   - *Professional Lyceum No. 98*
   - *Specialization: Frontend Developer* 🎓
 
@@ -34,7 +33,7 @@
   - NodeJs, PSQL, Express, GoLang (6 months of experience at iwex) 🚀
 
 **Professional Experience:**
-- *Started programming in 2022* 🚀
+- *Started programming in September 2022 🚀 
 - *Training and Practice:*
   - *Mastered a wide range of technologies in 8 months* 🌐
   - *Gained hands-on experience in various projects, including iwex and Discovery Studio* 🚀
