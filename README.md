@@ -14,6 +14,7 @@
 
 **Desired Position:**
 - *Frontend Developer* 💻
+- *Backend Developer* 💻
 - *Specializations: Programmer, Developer* 🚀
 
 **Education:**
