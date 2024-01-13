@@ -32,6 +32,7 @@
   - JS, ReactJS, TypeScript, NextJS, Jquery, Redux toolkit, Strapi 🚀
   - Vue3 (gained experience at Discovery Studio) 🚀
   - NodeJs, PSQL, Express, GoLang (6 months of experience at iwex) 🚀
+  - NestJS (no experience)
 
 **Professional Experience:**
 - *Started programming in September 2022 🚀 
